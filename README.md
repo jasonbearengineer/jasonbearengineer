@@ -1,5 +1,5 @@
 - Hi, I'm Jason Bear.
-- I'm interested in eltronics and 3D printing.
+- I'm interested in eltronics.
 - I'm currently learning electronic physics and microelectronics.
 - I'm originally from Upstate New York.
 - I'm a Senior in Electrical Engineering.
